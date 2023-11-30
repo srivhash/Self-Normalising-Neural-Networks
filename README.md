@@ -20,3 +20,5 @@ Drug discovery: The Tox21 challenge dataset
 
 Astronomy: Prediction of pulsars in the HTRU2 dataset	
 - The High Time Resolution Universe Survey (HTRU2) dataset has been released with 1,639 real pulsars and 16,259 spurious signals.
+
+The Link to the Slides :- https://www.canva.com/design/DAF1LPqjCpc/a6Tagn025IGRirCtB5nnqw/edit?utm_content=DAF1LPqjCpc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
